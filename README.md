@@ -38,11 +38,6 @@ yarn dev
 ```
 - Acesse http://localhost:8080 no seu navagador
 
-## 📦 Desenvolvimento
-
-Em ambiente de desenvolvimento, você ainda pode executar os seguintes scripts:
-<br>
-
 # Autora
 
 - [Gabriella dos Santos Pereira](https://github.com/gspgaby)
